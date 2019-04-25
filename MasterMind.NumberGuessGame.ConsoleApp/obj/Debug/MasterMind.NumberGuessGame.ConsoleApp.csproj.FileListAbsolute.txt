@@ -1,0 +1,7 @@
+C:\Users\BNarisetti\Desktop\_files\MasterMind.NumberGuessGame.App\MasterMind.NumberGuessGame.ConsoleApp\bin\Debug\MasterMind.NumberGuessGame.ConsoleApp.exe.config
+C:\Users\BNarisetti\Desktop\_files\MasterMind.NumberGuessGame.App\MasterMind.NumberGuessGame.ConsoleApp\bin\Debug\MasterMind.NumberGuessGame.ConsoleApp.exe
+C:\Users\BNarisetti\Desktop\_files\MasterMind.NumberGuessGame.App\MasterMind.NumberGuessGame.ConsoleApp\bin\Debug\MasterMind.NumberGuessGame.ConsoleApp.pdb
+C:\Users\BNarisetti\Desktop\_files\MasterMind.NumberGuessGame.App\MasterMind.NumberGuessGame.ConsoleApp\obj\Debug\MasterMind.NumberGuessGame.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\BNarisetti\Desktop\_files\MasterMind.NumberGuessGame.App\MasterMind.NumberGuessGame.ConsoleApp\obj\Debug\MasterMind.NumberGuessGame.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\BNarisetti\Desktop\_files\MasterMind.NumberGuessGame.App\MasterMind.NumberGuessGame.ConsoleApp\obj\Debug\MasterMind.NumberGuessGame.ConsoleApp.exe
+C:\Users\BNarisetti\Desktop\_files\MasterMind.NumberGuessGame.App\MasterMind.NumberGuessGame.ConsoleApp\obj\Debug\MasterMind.NumberGuessGame.ConsoleApp.pdb
